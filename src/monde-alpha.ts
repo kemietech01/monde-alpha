@@ -31,3 +31,5 @@ scene_1.add(camera_1);
 camera_1.position.z =- 3;
 
 const rendu_1 = new thr.WebGLRenderer();
+
+console.log("test");
