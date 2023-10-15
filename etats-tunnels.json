@@ -1,0 +1,278 @@
+{
+    "tunnels": [
+        {
+            "name": "nginx-site-bomea",
+            "ID": "126919b9efac9764156a61c842db0a97",
+            "uri": "/api/tunnels/nginx-site-bomea",
+            "public_url": "https://d9526a9caea5.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:9020",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        },
+        {
+            "name": "nginx-site-spic",
+            "ID": "74ace062fa583cce78df3aecb4d70a6a",
+            "uri": "/api/tunnels/nginx-site-spic",
+            "public_url": "https://08c5baac7ddb.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.:9050",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        },
+        {
+            "name": "nginx-site-jeremie-portfolio",
+            "ID": "ac992f69c9cfb2cb518c62dff93215cb",
+            "uri": "/api/tunnels/nginx-site-jeremie-portfolio",
+            "public_url": "https://1ffe8725fe18.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:9040",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        },
+        {
+            "name": "api-generation-mondes",
+            "ID": "b6bdca035abe7da68810040a9222fef1",
+            "uri": "/api/tunnels/api-generation-mondes",
+            "public_url": "https://labo.kemietech.com",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:8000",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 8,
+                    "gauge": 0,
+                    "rate1": 0.0018750651743417565,
+                    "rate5": 0.00876900968517329,
+                    "rate15": 0.006044229998269123,
+                    "p50": 5044357079,
+                    "p90": 7684069882,
+                    "p95": 7684069882,
+                    "p99": 7684069882
+                },
+                "http": {
+                    "count": 10,
+                    "rate1": 0.0032119737776635043,
+                    "rate5": 0.011744969051369031,
+                    "rate15": 0.007717552474330413,
+                    "p50": 8892397.5,
+                    "p90": 31838816.8,
+                    "p95": 32339476,
+                    "p99": 32339476
+                }
+            }
+        },
+        {
+            "name": "code-server",
+            "ID": "494670d8eafaf1b9bc59793d1779b660",
+            "uri": "/api/tunnels/code-server",
+            "public_url": "https://87f62bedd69c.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:8080",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        },
+        {
+            "name": "nginx-site-kevin-rcc",
+            "ID": "94af609309817a4be3662a4bf7870d18",
+            "uri": "/api/tunnels/nginx-site-kevin-rcc",
+            "public_url": "https://0374b77ed3b9.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:9030",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 0,
+                    "gauge": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        },
+        {
+            "name": "nginx-site-kemietech",
+            "ID": "f3b720d750d077e7977e05d943bbfa21",
+            "uri": "/api/tunnels/nginx-site-kemietech",
+            "public_url": "https://c37b3e490b4c.ngrok.app",
+            "proto": "https",
+            "config": {
+                "addr": "http://127.0.0.1:9010",
+                "inspect": true
+            },
+            "metrics": {
+                "conns": {
+                    "count": 2,
+                    "gauge": 0,
+                    "rate1": 0.003996086244662619,
+                    "rate5": 0.004359121042986399,
+                    "rate15": 0.0019287222703352268,
+                    "p50": 5192217683,
+                    "p90": 5226590638,
+                    "p95": 5226590638,
+                    "p99": 5226590638
+                },
+                "http": {
+                    "count": 4,
+                    "rate1": 0.00735315365955782,
+                    "rate5": 0.008574142219060478,
+                    "rate15": 0.0038360737116024577,
+                    "p50": 11850852.5,
+                    "p90": 33753449,
+                    "p95": 33753449,
+                    "p99": 33753449
+                }
+            }
+        },
+        {
+            "name": "connexion-ssh",
+            "ID": "957ff6bdcc4f497a92121d7c046b13d2",
+            "uri": "/api/tunnels/connexion-ssh",
+            "public_url": "tcp://1.tcp.ap.ngrok.io:25394",
+            "proto": "tcp",
+            "config": {
+                "addr": "localhost:22",
+                "inspect": false
+            },
+            "metrics": {
+                "conns": {
+                    "count": 2,
+                    "gauge": 1,
+                    "rate1": 1.5247490761433923e-8,
+                    "rate5": 0.0003557980774682939,
+                    "rate15": 0.0008361424145286318,
+                    "p50": 470234459602,
+                    "p90": 776056817840,
+                    "p95": 776056817840,
+                    "p99": 776056817840
+                },
+                "http": {
+                    "count": 0,
+                    "rate1": 0,
+                    "rate5": 0,
+                    "rate15": 0,
+                    "p50": 0,
+                    "p90": 0,
+                    "p95": 0,
+                    "p99": 0
+                }
+            }
+        }
+    ],
+    "uri": "/api/tunnels"
+}
+kemietech2@kemietechlab:~/Bureau/labo/developpement/programmes
